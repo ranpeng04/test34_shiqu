@@ -1,1 +1,0 @@
-adb -s 127.0.0.1:62001 shell monkey -p foodfun 300 --throttle  500 --ignore-crashes --ignore-timeouts --ignore-security-exceptions --ignore-native-crashes --monitor-native-crashes  -v -v  -v 10000 > D:/monkeyTest.log
